@@ -1,6 +1,6 @@
 # Hi there, I'm Lielina Fekadu 👋
 
-I am a fourth-year Computer Science student at **Hawassa University** and a **Software & AI/Data Engineer** passionate about building dependable, real-world systems. I completed the 12-week intensive **Kifiya AI Mastery Program** with distinction and currently serve as the **Public Relations Head** for the Peak Craft Informatics Community (PCIC).
+I am a fourth-year Computer Science student at **Hawassa University** and a **Software & AI/Data Engineer** passionate about building dependable, real-world systems. I completed the 12-week intensive **Kifiya AI Mastery Program** with distinction and served as the **Public Relations Head** for the Peak Craft Informatics Community (PCIC).
 
 - 🔭 **Current Focus:** Final-year municipal fault tracking platform & distributed systems.
 - 💼 **Experience:** Software Engineering Intern at Abronal Technologies (ASP.NET Core 8 & C#/.NET CRM).
